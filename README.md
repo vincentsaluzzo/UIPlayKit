@@ -1,2 +1,2 @@
 # UIPlayKit
-This app is a companion app for an iOS course on OpenClassroom.
+This app is a companion app for an iOS course on OpenClassrooms.
